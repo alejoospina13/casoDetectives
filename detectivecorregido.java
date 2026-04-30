@@ -58,7 +58,9 @@ public class CasoDetective {
         }
 
         while (opcion != 3) {
-            System.out.println("\n1. Interrogar  2. Resolver  3. Salir");
+            System.out.println("1. Interrogar");
+            System.out.println("2. Resolver");
+            System.out.println("3. Salir");
             opcion = sc.nextInt();
 
             if (opcion == 1) {
