@@ -86,7 +86,7 @@ public class CasoDetective {
                     System.out.println("¡CORRECTO! Don Aurelio mintio sobre su hora de salida y enveneno la copa.");
                     opcion = 3;
                 } else {
-                    System.out.println("Incorrecto. Sigue buscando pistas.");
+                    System.out.println("Incorrecto. Sigue interrogando.");
                 }
             }
         }
